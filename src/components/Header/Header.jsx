@@ -20,7 +20,7 @@ export const Header = ({ cart }) => {
             </div>
             <div className="menu">
                 <div className="desktop-menu">
-                    <Link to={"/"}><FaHome /> Home</Link>
+                    <Link to={"/e-com"}><FaHome /> Home</Link>
                     <Link to={"/cart"}>
                         <span className='span'>{cart.length}</span> <FaCartArrowDown /> Cart
                     </Link>
@@ -30,7 +30,7 @@ export const Header = ({ cart }) => {
                     Menu
                 </button>
                 <div className={`dropdown-content ${isDropdownOpen ? 'show' : ''}`}>
-                    <Link to={"/"} onClick={() => setDropdownOpen(false)}><FaHome /> Home</Link>
+                    <Link to={"/e-com"} onClick={() => setDropdownOpen(false)}><FaHome /> Home</Link>
                     <Link to={"/cart"} onClick={() => setDropdownOpen(false)}>
                         <span className='span'>{cart.length}</span> <FaCartArrowDown /> Cart
                     </Link>

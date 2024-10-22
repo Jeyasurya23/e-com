@@ -15,12 +15,12 @@ function App() {
         <Header cart={cart} />
         <div className='container'>
           <Routes>
-            <Route path='/' element={<Home cart={cart} setCart={setCart}/>} />
+            <Route path='/e-com' element={<Home cart={cart} setCart={setCart}/>} />
             <Route path='/cart' element={<Cart cart={cart} setCart={setCart}/>} />
             {/* <Route path='/contact'element={<Contact/>} />   */} 
           </Routes>
+          <Contact />
         </div>
-        <Contact />
       </BrowserRouter>
     </>
   )
