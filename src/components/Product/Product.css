@@ -1,0 +1,44 @@
+.product{
+    margin-top: 10px;
+    width: 200px;
+    height: 380px;
+    border: 1px solid #222;
+    box-shadow: 5px 8px #222;
+}
+.product .img{
+    width: 100%;
+    height: 250px;
+}
+
+.product .img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.detail{
+    padding: 5px;
+}
+.detail h3{
+    color: #222;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.detail p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #888;
+}
+.detail button{
+    padding: 5px;
+    margin-top: 5px;
+    background-color: lightgray;
+    color: #222;
+    border: none;
+    border-radius:3px ;
+}
+.detail button:hover{
+    background-color: rgb(150, 150, 150);
+}
+.remove{
+    background-color: red !important;
+}
