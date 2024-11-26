@@ -2,361 +2,361 @@
     {
         "id": 1,
         "name": "Charger SXT RWD",
-        "price": 2741999.15,
+        "price": 4500000,
         "image": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png"
     },
     {
         "id": 2,
         "name": "Apple MacBook Pro 14 Inch Space Grey",
-        "price": 166499.15,
+        "price": 169900,
         "image": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png"
     },
     {
         "id": 3,
         "name": "Green Oval Earring",
-        "price": 2074.15,
+        "price": 1499,
         "image": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png"
     },
     {
         "id": 4,
         "name": "Apple Airpods",
-        "price": 10774.15,
+        "price": 19999,
         "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
     },
     {
         "id": 5,
         "name": "Cricket Helmet",
-        "price": 3599.99,
+        "price": 2999,
         "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
     },
     {
         "id": 6,
         "name": "iPhone X",
-        "price": 89999.99,
+        "price": 54999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
     },
     {
         "id": 7,
         "name": "Golf Ball",
-        "price": 799.99,
+        "price": 499,
         "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png"
     },
     {
         "id": 8,
         "name": "iPhone 6",
-        "price": 29999.99,
+        "price": 12999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
     },
     {
         "id": 9,
         "name": "Selfie Lamp with iPhone",
-        "price": 1499.99,
+        "price": 999,
         "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
     },
     {
         "id": 10,
         "name": "Rolex Submariner Watch",
-        "price": 1399999.15,
+        "price": 950000,
         "image": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png"
     },
     {
         "id": 11,
         "name": "Oppo A57",
-        "price": 12499.99,
+        "price": 15999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png"
     },
     {
         "id": 12,
         "name": "Egg Slicer",
-        "price": 699.99,
+        "price": 299,
         "image": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png"
     },
     {
         "id": 13,
         "name": "Ice Cube Tray",
-        "price": 599.99,
+        "price": 199,
         "image": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
     },
     {
         "id": 14,
         "name": "Samsung Galaxy S8",
-        "price": 49999.99,
+        "price": 29999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
     },
     {
         "id": 15,
         "name": "Golden Shoes Woman",
-        "price": 2499.99,
+        "price": 2499,
         "image": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png"
     },
     {
         "id": 16,
         "name": "Strawberry",
-        "price": 399.99,
+        "price": 199,
         "image": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png"
     },
     {
         "id": 17,
         "name": "Green and Black Glasses",
-        "price": 3499.99,
+        "price": 1999,
         "image": "https://cdn.dummyjson.com/products/images/sunglasses/Green%20and%20Black%20Glasses/thumbnail.png"
     },
     {
         "id": 18,
         "name": "Dior J'adore",
-        "price": 8999.99,
+        "price": 8999,
         "image": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
     },
     {
         "id": 19,
         "name": "iPhone 12 Silicone Case with MagSafe Plum",
-        "price": 2999.99,
+        "price": 4999,
         "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png"
     },
     {
         "id": 20,
         "name": "Baseball Ball",
-        "price": 899.99,
+        "price": 599,
         "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
     },
     {
         "id": 21,
         "name": "Party Glasses",
-        "price": 1999.99,
+        "price": 999,
         "image": "https://cdn.dummyjson.com/products/images/sunglasses/Party%20Glasses/thumbnail.png"
     },
     {
         "id": 22,
         "name": "TV Studio Camera Pedestal",
-        "price": 49999.99,
+        "price": 49999,
         "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/thumbnail.png"
     },
     {
         "id": 23,
         "name": "Realme C35",
-        "price": 14999.99,
+        "price": 14999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
     },
     {
         "id": 24,
         "name": "300 Touring",
-        "price": 2899999.15,
+        "price": 4800000,
         "image": "https://cdn.dummyjson.com/products/images/vehicle/300%20Touring/thumbnail.png"
     },
     {
         "id": 25,
         "name": "Selfie Stick Monopod",
-        "price": 1299.99,
+        "price": 799,
         "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png"
     },
     {
         "id": 26,
         "name": "Realme X",
-        "price": 29999.99,
+        "price": 18999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png"
     },
     {
         "id": 27,
         "name": "Sportbike Motorcycle",
-        "price": 74999.99,
+        "price": 250000,
         "image": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/thumbnail.png"
     },
     {
         "id": 28,
         "name": "Cat Food",
-        "price": 899.99,
+        "price": 599,
         "image": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
     },
-      {
-          "id": 29,
-          "name": "Apple MagSafe Battery Pack",
-          "price": 8299.87,
-          "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png"
-      },
-      {
-          "id": 30,
-          "name": "Calvin Klein CK One",
-          "price": 3749.87,
-          "image": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
-      },
-      {
-          "id": 31,
-          "name": "Corset Leather With Skirt",
-          "price": 7349.87,
-          "image": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png"
-      },
-      {
-          "id": 32,
-          "name": "Rolex Cellini Moonphase",
-          "price": 1319999.87,
-          "image": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
-      },
-      {
-          "id": 33,
-          "name": "Table Lamp",
-          "price": 3749.87,
-          "image": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
-      },
-      {
-          "id": 34,
-          "name": "Vivo S1",
-          "price": 18749.87,
-          "image": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
-      },
-      {
-          "id": 35,
-          "name": "IWC Ingenieur Automatic Steel",
-          "price": 374999.87,
-          "image": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
-      },
-      {
-          "id": 36,
-          "name": "Longines Master Collection",
-          "price": 112499.87,
-          "image": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png"
-      },
-      {
-          "id": 37,
-          "name": "Nike Air Jordan 1 Red And Black",
-          "price": 12499.87,
-          "image": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png"
-      },
-      {
-          "id": 38,
-          "name": "Kitchen Sieve",
-          "price": 599.87,
-          "image": "https://cdn.dummyjson.com/products/images/kitchen/Kitchen%20Sieve/thumbnail.png"
-      },
-      {
+    {
+        "id": 29,
+        "name": "Apple MagSafe Battery Pack",
+        "price": 9999,
+        "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png"
+    },
+    {
+        "id": 30,
+        "name": "Calvin Klein CK One",
+        "price": 4999,
+        "image": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+        "id": 31,
+        "name": "Corset Leather With Skirt",
+        "price": 3999,
+        "image": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png"
+    },
+    {
+        "id": 32,
+        "name": "Rolex Cellini Moonphase",
+        "price": 850000,
+        "image": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
+    },
+    {
+        "id": 33,
+        "name": "Table Lamp",
+        "price": 1499,
+        "image": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
+    },
+    {
+        "id": 34,
+        "name": "Vivo S1",
+        "price": 15999,
+        "image": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
+    },
+    {
+        "id": 35,
+        "name": "IWC Ingenieur Automatic Steel",
+        "price": 450000,
+        "image": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
+    },
+    {
+        "id": 36,
+        "name": "Longines Master Collection",
+        "price": 250000,
+        "image": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png"
+    },
+    {
+        "id": 37,
+        "name": "Nike Air Jordan 1 Red And Black",
+        "price": 12999,
+        "image": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png"
+    },
+    {
+        "id": 38,
+        "name": "Kitchen Sieve",
+        "price": 299,
+        "image": "https://cdn.dummyjson.com/products/images/kitchen/Kitchen%20Sieve/thumbnail.png"
+    },
+    {
         "id": 39,
         "name": "Annibale Colombo Bed",
-        "price": 1899.99,
+        "price": 89999,
         "image": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
     },
     {
         "id": 40,
         "name": "Samsung Galaxy S10",
-        "price": 699.99,
+        "price": 42999,
         "image": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
     },
     {
         "id": 41,
         "name": "Selfie Stick Monopod",
-        "price": 12.99,
+        "price": 699,
         "image": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png"
     },
     {
         "id": 42,
         "name": "Blue Frock",
-        "price": 29.99,
+        "price": 1999,
         "image": "https://cdn.dummyjson.com/products/images/tops/Blue%20Frock/thumbnail.png"
     },
     {
         "id": 43,
         "name": "Kiwi",
-        "price": 2.49,
+        "price": 149,
         "image": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
     },
     {
-      "id": 45,
-      "name": "Chicken Meat",
-      "price": 9.99,
-      "image": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
-  },
-  {
-      "id": 46,
-      "name": "Tennis Racket",
-      "price": 49.99,
-      "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png"
-  },
-  {
-      "id": 47,
-      "name": "Potatoes",
-      "price": 2.29,
-      "image": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
-  },
-  {
-    "id": 48,
-    "name": "Essence Mascara Lash Princess",
-    "price": 9.99,
-    "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
-  },
-  {
-    "id": 49,
-    "name": "Grater Black",
-    "price": 10.99,
-    "image": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png"
-  },
-  {
-    "id": 50,
-    "name": "Spoon",
-    "price": 4.99,
-    "image": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png"
-  },
-  {
-    "id": 51,
-    "name": "Family Tree Photo Frame",
-    "price": 29.99,
-    "image": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
-  },
-  {
-    "id": 52,
-    "name": "Oppo K1",
-    "price": 299.99,
-    "image": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png"
-  },
-  {
-    "id": 53,
-    "name": "Fish Steak",
-    "price": 14.99,
-    "image": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
-  },
-  {
-    "id": 54,
-    "name": "Cooking Oil",
-    "price": 4.99,
-    "image": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
-  },
-  {
-    "id": 55,
-    "name": "Black Sun Glasses",
-    "price": 29.99,
-    "image": "https://cdn.dummyjson.com/products/images/sunglasses/Black%20Sun%20Glasses/thumbnail.png"
-  },
-  {
-    "id": 56,
-    "name": "Family Tree Photo Frame",
-    "price": 29.99,
-    "image": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
-  },
-  {
-    "id": 57,
-    "name": "Red Nail Polish",
-    "price": 8.99,
-    "image": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
-  },
-  {
-    "id": 58,
-    "name": "Golden Shoes Woman",
-    "price": 49.99,
-    "image": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png"
-  },
-  {
-    "id": 59,
-    "name": "Volleyball",
-    "price": 11.99,
-    "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png"
-  },
-  {
-    "id": 60,
-    "name": "Nescafe Coffee",
-    "price": 7.99,
-    "image": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png"
-  },
-  {
-    "id": 61,
-    "name": "Realme XT",
-    "price": 349.99,
-    "image": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png"
-  }
-  ]
+        "id": 45,
+        "name": "Chicken Meat",
+        "price": 299,
+        "image": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+    },
+    {
+        "id": 46,
+        "name": "Tennis Racket",
+        "price": 2499,
+        "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png"
+    },
+    {
+        "id": 47,
+        "name": "Potatoes",
+        "price": 49,
+        "image": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
+    },
+    {
+        "id": 48,
+        "name": "Essence Mascara Lash Princess",
+        "price": 599,
+        "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+        "id": 49,
+        "name": "Grater Black",
+        "price": 399,
+        "image": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png"
+    },
+    {
+        "id": 50,
+        "name": "Spoon",
+        "price": 199,
+        "image": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png"
+    },
+    {
+        "id": 51,
+        "name": "Family Tree Photo Frame",
+        "price": 1499,
+        "image": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
+    },
+    {
+        "id": 52,
+        "name": "Oppo K1",
+        "price": 16999,
+        "image": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png"
+    },
+    {
+        "id": 53,
+        "name": "Fish Steak",
+        "price": 399,
+        "image": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
+    },
+    {
+        "id": 54,
+        "name": "Cooking Oil",
+        "price": 199,
+        "image": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+    },
+    {
+        "id": 55,
+        "name": "Black Sun Glasses",
+        "price": 1499,
+        "image": "https://cdn.dummyjson.com/products/images/sunglasses/Black%20Sun%20Glasses/thumbnail.png"
+    },
+    {
+        "id": 56,
+        "name": "Family Tree Photo Frame",
+        "price": 1499,
+        "image": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
+    },
+    {
+        "id": 57,
+        "name": "Red Nail Polish",
+        "price": 299,
+        "image": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+        "id": 58,
+        "name": "Golden Shoes Woman",
+        "price": 2499,
+        "image": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png"
+    },
+    {
+        "id": 59,
+        "name": "Volleyball",
+        "price": 799,
+        "image": "https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png"
+    },
+    {
+        "id": 60,
+        "name": "Nescafe Coffee",
+        "price": 299,
+        "image": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png"
+    },
+    {
+        "id": 61,
+        "name": "Realme XT",
+        "price": 17999,
+        "image": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png"
+    }
+]

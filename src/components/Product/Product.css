@@ -19,7 +19,7 @@
     padding: 5px;
 }
 .detail h3{
-    color: #222;
+    color: #222 !important;
     margin-bottom: 10px;
     font-size: 14px;
 }

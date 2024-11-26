@@ -67,3 +67,45 @@
         width: calc(100% - 40px);
     }
 }
+
+.categories-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.category-btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 14px;
+}
+
+.category-btn:hover {
+    background-color: #e0e0e0;
+    transform: translateY(-2px);
+}
+
+.category-btn.active {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .categories-container {
+        padding: 10px;
+        gap: 8px;
+    }
+
+    .category-btn {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}

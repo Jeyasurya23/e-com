@@ -17,7 +17,6 @@ function App() {
           <Routes>
             <Route path='/e-com' element={<Home cart={cart} setCart={setCart}/>} />
             <Route path='/cart' element={<Cart cart={cart} setCart={setCart}/>} />
-            {/* <Route path='/contact'element={<Contact/>} />   */} 
           </Routes>
           <Contact />
         </div>
