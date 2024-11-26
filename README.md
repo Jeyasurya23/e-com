@@ -5,7 +5,7 @@ A versatile and dynamic product catalog designed to showcase a variety of produc
 
 # Screenshot
 
-![e-com website](./assets/images/{F9DD1F35-E890-4620-80C5-45C38B8E8956}.png)
+![e-com website](./assets/images/{73202E08-8607-4EF1-A51E-A5D635230496}.png)
 
 
 ## 📖 Overview
