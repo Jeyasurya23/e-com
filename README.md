@@ -3,6 +3,11 @@
 
 A versatile and dynamic product catalog designed to showcase a variety of products with their respective prices in Indian Rupees (INR).
 
+# Screenshot
+
+![e-com website](./assets/images/{F9DD1F35-E890-4620-80C5-45C38B8E8956}.png)
+
+
 ## 📖 Overview
 
 This project provides a JSON-based product catalog encompassing diverse categories, making it an essential asset for modern e-commerce platforms. The categories include:
